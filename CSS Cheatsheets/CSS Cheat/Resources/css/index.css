@@ -1,0 +1,55 @@
+.intro{
+    font-family: Futura;
+    text-align: Center;
+    opacity: .80;
+    font-size: 25px;
+    color: DarkSlateGray; 
+    }
+  
+  .table{
+    width:100%;
+  }
+  
+  .heading{
+    text-transform: uppercase;
+    font-family: Rockwell;
+  }
+  
+  .heading td{
+    border: 2px solid black;
+    background: DarkSlateGray;
+    opacity:.70;
+    height: 50px;
+    text-align: center;
+  }
+  
+  tbody{
+    font-family: Rockwell;
+  }
+  
+  #attribute{
+    text-transform: uppercase;
+  }
+  
+  #code{
+    font-family: monospace;
+    background-color: #778899;
+  }
+  
+  #small{
+    font-variant: small-caps;
+  }
+  
+  #bold{
+    font-weight: bold;
+  }
+  
+  #italic{
+    font-style: italic;
+  }
+  
+  #note{
+    font: small-caps 18px Arial;
+    background-color: lightgray;
+    text-align: center;
+  }
